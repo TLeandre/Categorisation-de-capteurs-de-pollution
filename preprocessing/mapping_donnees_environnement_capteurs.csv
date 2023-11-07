@@ -1,0 +1,13 @@
+Typologie_zone;Type_voie;Nombre_voies;Distance_capteur_voie;Position_capteurs;Presence_arbres;Feuille_arbres;Morphologie_urbaine;Hauteur_batiments;Distance_capteur_batiment;Particularite
+Quartiers Commerciaux;Intersection en T ;Boulevard a 3 voies de circulation et circulation bus;1 a 2 m ;Arbre;NON;NON;Batiments compacts de deux cotes; R+4;0 m; parking
+Quartiers Peripheriques ;Intersection en croix ;Rond point;1 m;Au dessus de toit;Presence arbre;NON en hiver ;Batiments de deux cotes;NON;1 a 2 m ;Administration
+centre ville;Rond point;Rue  a 1 voie;2 a 4 m;Mur;Range arbres;Oui en hiver;Batiments de un seul cote;R+1;1 m;Complexe sportif
+centre ville historique;Rue droite;Rue moyenne a 2 voies de circulation;inf a 1 m;Parking 2 roues et Arbre;;Oui en hiver ;Pas de batiments;R+2;1 m ;Etablissement enseignement 
+zones residentielles;Rue en pente ;Rue moyenne a 2 voies de circulation et circulation bus;sup a 4 m;Parking 4 roues;;;;R+2 ;2 a 4 m;Feu
+;intersection en Rond point;Rue tres etroite;;Parking 4 roues ;;;;R+3;NON;Hopital
+;;;;Parking 4 roues  et mur;;;;R+3 ;sup a  4 m;Hotel
+;;;;Parking 4 roues et Arbre;;;;;;Parc 
+;;;;Parking 4 roues et Arbre et Mur;;;;;;Rue canyon
+;;;;;;;;;;arret bus
+;;;;;;;;;;parking
+;;;;;;;;;;pas de particuarite
